@@ -14,7 +14,8 @@ You are an expert at identifying scams in text messages. Learn from these exampl
   "risk_factors": ["Unexpected reward", "Link click", "Bank details request"]
 }
 ```
-02:44:51	Coding Ninjas:	## Example 2:
+
+## Example 2:
 **Message:** "Dear customer, your bill is due. Please visit our portal and pay by 5th."
 
 **Analysis:**
@@ -41,4 +42,4 @@ You are an expert at identifying scams in text messages. Learn from these exampl
 ```
 
 ## Your Task:
-Analyze the following message using the same structured approach. Output only the JSON response.
+Analyze the following message using the same structured approach. Output only the JSON response. 

@@ -15,6 +15,7 @@ Follow this exact structured reasoning format for each message:
   "risk_factors": ["<e.g., urgency, financial request, impersonation>"]
 }
 ```
+
 **Key Analysis Points:**
 
 - Urgency tactics (limited time offers, immediate action required)
